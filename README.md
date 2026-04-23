@@ -2,7 +2,7 @@
 
 **`Estudante`**
 
-Me chamo Pedro Henrique Campos, tenho 22 anos e sou de São Paulo. Ensino médio completo, com o curso técnico em informática e Secretariado. Atualmente faço faculdade na UMC de sistema de informação, busco trabalhar em uma empresa que possibilite o desenvolvimento profissional, contribuindo com minhas habilidades administrativas e conhecimentos em Sistemas de Informação, com interesse em áreas como suporte técnico, análise de dados, ou processos administrativos com foco em tecnologia. redes sociais são [Instagram](https://www.instagram.com/phcamposz/) e [Linkedin](https://www.linkedin.com/in/pedro-henrique-campos-906450328/).
+Me chamo Pedro Henrique Campos, tenho 22 anos e sou de São Paulo. Ensino médio completo, com o curso técnico em informática e Secretariado. Atualmente faço faculdade na UMC de sistema de informação, busco trabalhar em uma empresa que possibilite o desenvolvimento profissional, contribuindo com minhas habilidades administrativas e conhecimentos em Sistemas de Informação, com interesse em áreas como suporte técnico, análise de dados, ou processos administrativos com foco em tecnologia. Redes sociais são [Instagram](https://www.instagram.com/phcamposz/) e [Linkedin](https://www.linkedin.com/in/pedro-henrique-campos-906450328/).
 
 
 
